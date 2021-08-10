@@ -1,4 +1,2 @@
 *.py
 *.c
-*.xml
-!hello.xml
