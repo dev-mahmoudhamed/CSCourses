@@ -3,10 +3,7 @@
 
 **bold line to test  readme**
 
-> gjhgj
-> fgdf
-> gdfsgjdfkgdf
->
+
 Some basic Git commands are:
 ```
 git status
