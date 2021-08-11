@@ -1,7 +1,7 @@
 # test repo
 * some random line
 
-**bold line to teat  readme**
+**bold line to test  readme**
 
 > qouted line
 > 1
