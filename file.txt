@@ -1,4 +1,0 @@
-hello world
-help me
-
-add test txt/n3rd line
