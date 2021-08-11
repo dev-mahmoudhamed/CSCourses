@@ -1,9 +1,12 @@
 # test repo
 * some random line
 
-** bold line to teat  readme **
+**bold line to teat  readme**
 
 > qouted line
+> 1
+> 2
+> 3
 
 Some basic Git commands are:
 ```
