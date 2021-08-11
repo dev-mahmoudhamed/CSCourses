@@ -1,4 +1,15 @@
 # test repo
 * some random line
 
-test text file 
+** bold line to teat  readme **
+
+> qouted line
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+This site was built using [GitHub Pages](https://pages.github.com/). 
